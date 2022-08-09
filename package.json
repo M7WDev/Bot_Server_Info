@@ -1,0 +1,28 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "axios": "^0.27.2",
+    "discord.js": "^13.8.0",
+    "hastebin": "^0.2.1",
+    "hastebin-save": "^1.2.2",
+    "minecraft": "^0.0.2",
+    "moment": "^2.29.3",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.5.1",
+    "mysql2": "^2.3.3",
+    "simple-youtube-api": "^5.2.1",
+    "sourcebin": "^4.3.5",
+    "sourcebin_js": "^0.0.3-ignore",
+    "youtube-api": "^3.0.1"
+  },
+  "description": ""
+}
