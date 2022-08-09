@@ -7,6 +7,8 @@ Um bot feito para pegar informações de servidores de minecraft.
 
 # Dependências:
 
+NodeJS - https://nodejs.org/en/
+
 Biblioteca Axios - https://axios-http.com
 
 MCAPI - http://mcapi.us
